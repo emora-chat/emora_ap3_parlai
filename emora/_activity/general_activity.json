@@ -1,0 +1,204 @@
+{
+  "ontology": {
+    "school": [
+      "homework",
+      "class"
+    ],
+    "chore": [
+      "clean",
+      "mow",
+      "yardwork",
+      "garden"
+    ],
+    "errand": [
+      "store",
+      "bank",
+      "cleaners",
+      "post office"
+    ],
+    "clean": [
+      "vacuum",
+      "sweep",
+      "dust",
+      "wipe",
+      "scrub",
+      "wash",
+      "fold",
+      "laundry",
+      "organize"
+    ],
+    "outdoor_destination": [
+      "park",
+      "festival",
+      "concert",
+      "pool",
+      "waterpark",
+      "garden"
+    ],
+    "appointment": [
+      "dentist",
+      "doctor"
+    ],
+    "indoor_destination": [
+      "library",
+      "mall",
+      "appointment",
+      "museum",
+      "arcade",
+      "restaurant",
+      "theatre"
+    ],
+    "game_console": [
+      "nintendo switch",
+      "playstation",
+      "xbox",
+      "game cube",
+      "nintendo ds",
+      "wii",
+      "pc",
+      "game boy",
+      "ipad",
+      "tablet"
+    ],
+    "vgames": [
+      "minecraft",
+      "fortnite",
+      "overwatch",
+      "pokemon",
+      "supersonic",
+      "halo"
+    ],
+    "outdoor_exercise": [
+      "run",
+      "walk",
+      "hike",
+      "bike",
+      "jog"
+    ],
+    "indoor_exercise": [
+      "dance",
+      "pilates",
+      "yoga",
+      "weight"
+    ],
+    "video_platform": [
+      "television",
+      "youtube",
+      "netflix",
+      "hulu",
+      "hbo"
+    ],
+    "children_activity": [
+      "barbie",
+      "house",
+      "doctor",
+      "stuffed animals",
+      "stuffed animal"
+    ],
+    "hobby": [
+      "cook",
+      "program",
+      "write",
+      "read",
+      "pottery",
+      "pool",
+      "board games",
+      "bowl",
+      "draw",
+      "color",
+      "sing",
+      "fish",
+      "garden",
+      "plant",
+      "meditate",
+      "bake",
+      "paint"
+    ],
+    "sports": [
+      "soccer",
+      "football",
+      "baseball",
+      "basketball",
+      "volleyball",
+      "tennis",
+      "ping pong",
+      "cricket",
+      "hockey"
+    ],
+    "animal": [
+      "dog",
+      "cat",
+      "bird",
+      "puppy",
+      "kitten",
+      "guinea pig",
+      "hamster",
+      "ferret",
+      "horse",
+      "snake",
+      "fish"
+    ],
+    "not": [
+      "didnt",
+      "couldnt",
+      "cant",
+      "wouldnt",
+      "havent",
+      "never",
+      "wasnt",
+      "werent",
+      "dont"
+    ],
+      "related_person": ["partner", "roommate", "sibling", "friend", "child", "parent", "relative"],
+      "partner": ["spouse", "romantic_partner", "boyfriend", "girlfriend"],
+      "spouse": ["husband", "wife"],
+      "parent": ["mother", "father"],
+      "family": ["parent", "uncle", "aunt", "cousin", "niece", "nephew", "grandparent", "child"],
+      "child": ["son", "daughter"],
+      "sibling": ["brother", "sister"],
+      "relative": ["aunt", "uncle", "grandfather", "grandmother", "niece", "nephew", "cousin"]
+  },
+  "expressions": {
+    "sleep": ["doze","nap","siesta","asleep"],
+    "homework": ["assignment","presentation","test","quiz","flashcards","study","paper","report","project","schoolwork","school work"],
+    "class": ["lecture"],
+    "job": ["work","office"],
+    "theatre": ["theater","cinema","movies"],
+    "store": ["shop"],
+    "nintendo switch": ["switch"],
+    "playstation": ["ps", "p s"],
+    "nintendo ds": ["ds", "d s"],
+    "wii": ["oui", "we"],
+    "pc": ["computer","laptop"],
+    "television": ["tv", "t v", "telly"],
+    "hbo": ["h b o"],
+    "barbie": ["barbies"],
+    "soccer": ["european football", "assocation football"],
+    "ping pong": ["table tennis"],
+    "travel": ["run","go","drive","walk"],
+    "enjoy": ["like","love","adore","favor","appreciate"],
+    "hate": ["dislike","detest"],
+    "want": ["wanna","need","desire"],
+    "talk": ["chat","discuss"],
+    "annoy": ["bother","bothersome","terrible","bad","horrible","pain","painful","unenjoyable","boring","drag"],
+    "fun": ["blast","amusement","amuse","enjoyment","enjoyable","entertain"],
+    "relax": ["relieve","break"],
+    "happy": ["glad","satisfy"],
+    "frequently": ["all the time","every day","everyday","constantly","most of the time","every time","everytime","allday","all day"],
+    "boyfriend": ["boyfriend","boy friend"],
+    "girlfriend": ["girlfriend","girl friend"],
+    "romantic_partner": ["lover", "significant other"],
+    "roommate": ["roommate","roomate","room mate"],
+    "mother": ["mother", "mom", "ma", "mama", "mommy"],
+    "father": ["father", "dad", "pa", "papa", "daddy"],
+    "child": ["kid", "kiddo", "offspring", "child"],
+    "son": ["son","boy"],
+    "daughter": ["daughter","girl"],
+    "grandfather": ["grandpa"],
+    "grandmother": ["grandma"],
+    "coronavirus": ["covid","corona virus","virus","pandemic","epidemic","outbreak"],
+    "genitalia": ["penis","dick","cock","meat","vagina","pussy","cunt","twat"],
+    "sex": ["lovemaking"],
+    "exercise": ["workout"]
+  }
+}

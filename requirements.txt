@@ -1,0 +1,9 @@
+emora-stdm==1.94
+markupsafe==2.0.1
+pandas
+unidecode
+requests_aws4auth
+elasticsearch
+spotipy==2.11.2
+fuzzywuzzy
+python-Levenshtein

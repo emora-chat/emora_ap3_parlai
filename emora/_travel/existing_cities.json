@@ -1,0 +1,26 @@
+{
+    "west":{
+        "california":["san francisco","los angeles","san diego"],
+        "washington":["seattle"],
+        "nevada":["las vegas"],
+        "hawaii":["honolulu"]
+    },
+    "southeast":{
+        "georgia":["atlanta"],
+        "florida":["miami","orlando"],
+        "louisiana":["new orleans"]
+    },
+    "northeast":{
+        "new york":["new york"],
+        "pennsylvania":["philadelphia"],
+        "washington dc":["washington dc"]
+
+    },
+    "midwest":{
+        "illinois":["chicago"]
+    },
+    "soutwest":{
+        "texas":["houston"],
+        "arizona":["pheonix"]
+    }
+}

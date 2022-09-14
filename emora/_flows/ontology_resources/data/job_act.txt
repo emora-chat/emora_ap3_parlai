@@ -1,0 +1,63 @@
+CUSTOMER SERVICE
+retail
+sales
+stock
+customer service
+merchandise
+
+MEDICAL
+rehabilitation
+rehab
+skilled nursing
+healthcare
+public health
+medicine
+
+FOOD
+food preparation
+fast food
+concessions
+
+CLEANING
+maintenance
+
+MANUAL LABOR
+manual labor
+
+BUSINESS
+bookkeeping
+billing
+human resources
+insurance
+finance
+
+EDUCATION
+childcare
+teaching
+
+COMPUTER
+ai
+a i
+artificial intelligence
+i t
+information technology
+
+NEWS
+news
+
+COMMUNITY
+therapy
+
+GOVERNMENT
+postal service
+
+CELEBRITY
+television
+
+RESEARCH
+research
+astronomy
+biology
+chemistry
+physics
+science

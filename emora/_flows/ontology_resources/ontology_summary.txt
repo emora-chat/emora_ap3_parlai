@@ -1,0 +1,310 @@
+##########################
+#
+# Summarizes nodes in the ontology
+# Does not include terminals
+#
+##########################
+
+_personality
+	_positive traits
+	_negative traits
+	_neutral traits
+
+_major
+	_engineering major
+	_computers major
+	_social sciences major
+	_mathematics major
+	_health major
+	_education major
+	_art major
+	_communication major
+	_business major
+	_physical sciences major
+	_agriculture major
+	_law major
+	_consumer services major
+
+_sensitive job
+    _sexual job
+
+_job
+    _customer service job
+    _medical job
+    _food job
+    _cleaning job
+    _manual labor job
+    _assistant job
+    _business job
+    _education job
+    _law job
+    _skilled job
+    _computer job
+    _art job
+    _news job
+    _community job
+    _religious job
+    _interpersonal job
+    _sports job
+    _government job
+    _celebrity job
+    _animal job
+    _research job
+    _unlikely job
+    _misc job
+
+_job department
+    _customer service department
+    _medical department
+    _food department
+    _cleaning department
+    _manual labor department
+    _business department
+    _education department
+    _law department
+    _computer department
+    _news department
+    _community department
+    _government department
+    _celebrity department
+    _research department
+    
+_job location
+    _customer service location
+    _medical location
+    _food location
+    _manual labor location
+    _education location
+    _computer location
+    _art location
+    _news location
+    _community location
+    _religious location
+    _celebrity location
+    _animal location
+    _research location
+    _unlikely location
+    _misc location
+
+_life stage
+    _baby stage
+    _child stage
+    _teen stage
+    _adult stage
+    _elder stage
+    _student stage
+
+_life events
+    _romantic event
+    _end romantic event
+    _new life
+    _end life
+    _relocate
+    _new job
+    _end job
+    illness
+        _physical illness
+        mental illness
+    graduation
+    vacation
+    birthday
+    award
+    admission
+    exam
+    _better job
+    surgery
+    _child development
+
+_gender
+    female
+    male
+
+_related person
+    family
+        relative
+            grandparent
+        child
+        sibling
+        inlaw
+        parent
+    colleague
+    friend
+    roommate
+    partner
+
+_relationship state
+    _pos relationship
+    _neg relationship
+
+body
+
+_sensitive body
+
+_school subject
+    _business subject
+    _computer subject
+    _english subject
+    _family science subject
+    _foreign language subject
+    _math subject
+    _performing arts subject
+    _physical education subject
+    _science subject
+    _social studies subject
+    _visual arts subject
+    _vocational subject
+
+_school club
+    _academic club
+    _academic competitive club
+    _art club
+    _culture club
+    _community club
+    _government club
+    _leadership club
+    _media club
+    _military club
+    _music club
+    _performance art club
+    _religious club
+    _fantasy club
+    _social activism club
+    _special club
+    _political interest club
+    _sports club
+    _technology club
+    _acm club
+    _volunteer club
+
+_religion
+    christianity
+
+_age
+    _numbers
+
+_locations
+    _us states
+    _countries
+    _continents
+    _us cities
+    _large cities
+
+_job status
+
+_romantic status
+
+_living status
+
+_education status
+
+_political figures
+
+celebrity
+
+political affiliation
+
+sexual orientation
+
+_names
+    _female names
+    _male names
+
+activity
+    chore
+        clean
+    errand
+    hobby
+    exercise
+        outdoor exercise
+        indoor exercise
+        sports
+    outdoor destination
+    indoor destination
+        appointment
+    gaming
+        game console
+        vgame
+    video platform
+    children activity
+    routine
+        _day start
+        _day end
+        _beauty activity
+            makeup
+        skincare
+
+_insults
+
+_animals
+    _pet animal
+    _farm animal
+    _other animal
+
+_personal state
+    _physical personal state
+    _emotional personal state
+        _negative state
+            _downers
+            _feelings neg
+        _positive state
+            _uppers
+            _feelings pos
+        _neutral state
+
+_emotions
+    _emotions pos
+        _calm
+        _eager
+        _happy
+        _confident
+    _emotions neg
+        _angry
+        _stressed
+        _moody
+        _sad
+        _bored
+        _worried
+        _confused
+        _scared
+        _guilty
+        _embarrassed
+
+_adjectives
+    _positive adj
+        amazing
+        beautiful
+        brave
+        bright
+        delicious
+        enjoyable
+        famous
+        funny
+        good
+        great
+        playful
+        neat
+        popular
+    _negative adj
+        awful
+        bad
+        crooked
+        dangerous
+        dark
+        dull
+        fat
+        gross
+        hurt
+        lazy
+        predicament
+        trouble
+        ugly
+        mischievous
+
+
+
+
+
+
+
+
+

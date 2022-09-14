@@ -1,0 +1,232 @@
+ACTIVITIES
+
+# -- SPECIAL -- #
+
+##########################
+# BODILY FUNCTIONS
+##########################
+farted
+pooped
+took crap/dump/shit
+shit pants
+
+##########################
+# INTIMACY
+##########################
+fucked
+sex
+jerked off
+suck dick
+had sex
+kiss
+gonna have sex
+porn
+
+##########################
+# CRIMES
+##########################
+murdering
+shooting
+killed person
+
+# -- NORMAL -- #
+
+##########################
+# SCHOOL
+##########################
+studying
+had classes
+had school
+
+##########################
+# SLEEP
+##########################
+sleeping
+took nap
+
+##########################
+# DESTINATIONS
+##########################
+went to park
+go location
+
+##########################
+# WORK
+##########################
+went to work
+
+##########################
+# ERRANDS
+##########################
+went shopping
+cleaning
+vacuumed
+mowed lawn
+chores
+
+##########################
+# VIDEO GAMES
+##########################
+played switch
+play video games
+play fortnite
+play on device
+play game
+
+##########################
+# RELAXATION
+##########################
+relaxed
+chilling
+
+##########################
+# QUARANTINE
+##########################
+surviving
+quarantined
+staying home
+isolate
+try to stock food
+pandemic
+virus
+stuck inside
+
+##########################
+# EXERCISE
+##########################
+running
+exercise
+hiking
+pilates
+dance
+took walk
+
+##########################
+# SEEING PEOPLE
+##########################
+hanging out
+going to party
+play with family member
+saw family member
+talk to person / calling person
+
+##########################
+# VIDEOS
+##########################
+watching tv/movie/youtube/television/channel/shows/netflix/cartoons
+
+##########################
+# NOTHING
+##########################
+do nothing
+do not a lot
+did shit
+sat at home
+
+# -- INFREQUENT -- #
+
+##########################
+# FOOD
+##########################
+cooked
+eat
+bake
+had coffee
+
+##########################
+# ART
+##########################
+coloring
+painted
+
+##########################
+# READ
+##########################
+read
+library
+
+##########################
+# WRITE
+##########################
+writing
+
+##########################
+# MUSIC
+##########################
+singing
+play musical instrument
+
+##########################
+# SPORT
+##########################
+play sport
+
+##########################
+# PET
+##########################
+play with pet
+
+##########################
+# BIG LIFE EVENT
+##########################
+getting married
+moving
+packing
+died
+had birthday
+cancer
+
+
+##########################
+# CHILDREN ACTIVITIES
+##########################
+play barbie
+play house
+
+##########################
+# PHOTOGRAPHY
+##########################
+took photo
+
+##########################
+# MEDITATION
+##########################
+meditated
+
+##########################
+# PLANTS
+##########################
+gardening
+planted tree/garden
+
+##########################
+# OUTDOORS
+##########################
+fishing
+
+##########################
+# SIGHTSEEING
+##########################
+driving
+
+##########################
+# GENERIC POSITIVE
+##########################
+had fun
+
+
+##########################
+# DESCRIPTIONS
+##########################
+boring
+its raining
+its freezing
+stressed
+
+##########################
+# ALEXA COMMANDS
+##########################
+play music
+resume movie 
+resume music
+resume spotify

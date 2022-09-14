@@ -1,0 +1,89 @@
+Wedding&Engagement
+wedding, love, ring, engagement,engaged, bride, video, marrying
+
+Relationship Begin
+boyfriend, girlfriend, date, check,relationship, see, look
+
+Anniversary 
+anniversary, years, year, married, celebrating, wife, celebrate, love
+
+Relation End/Devoice
+relationship, ended, hurt, hate, devoice, blessings, single
+
+Graduation
+graduation, school, college, graduate, graduating, year, grad
+
+Admission 
+admitted, university, admission, accepted, college, offer, school
+
+Exam 
+passed, exam, test, school, semester, finished, exams, midterms
+
+Research
+research, presentation, journalism, paper, conference, go, writing
+
+Essay & Thesis 
+essay, thesis, reading, statement, dissertation, complete, project
+
+Job 
+job, accepted, announce, join, joining, offer, starting, announced, work
+
+Interview& Internship
+interview, position, accepted, internship, offered, start, work
+
+Moving 
+house, moving, move, city, home, car, place, apartment, town, leaving
+
+Travel 
+leave, leaving, flight, home, miss, house, airport, packing, morning
+
+Vacation 
+vacation, family, trip, country, go, flying, visited, holiday, Hawaii
+
+Winning Award 
+won, award, support, awards, winning, honor, scholarship, prize
+
+Election/Promotion/Nomination
+president, elected, run, nominated, named, promotion, cel, selected, business, vote
+
+Publishing 
+book, sold, writing, finished, read, copy, review, release, books, cover
+
+Contract 
+signed, contract, deal, agreements, agreed, produce, dollar, meeting
+
+Song/ Video/ Album Release
+video, song, album, check, show, see, making, radio, love
+
+Acting 
+play, role, acting, drama, played, series, movie, actor, theater
+
+Death 
+dies, passed, cancer, family, hospital, dad, grandma, mom, grandpa
+
+Give Birth 
+baby, born, boy, pregnant, girl, lbs, name, son, world, daughter, birth
+
+Illness 
+ill, hospital, feeling, sick, cold, flu, getting, fever, doctors, cough
+
+Surgery 
+surgery, got, test, emergency, blood, tumor, stomachs, hospital, pain, brain
+
+Sports 
+win, game, team, season, fans, played, winning, football, luck
+
+Running 
+run, race, finished, race, marathon, ran, miles, running, finish, goal
+
+New Car 
+car, buy, bought, cars, get, drive, pick, seat, color, dollar, meet
+
+Lost Weight 
+weight, lost, week, pounds, loss, weeks, gym, exercise, running
+
+Birthday 
+birthday, come, celebrate, party, friends, dinner, tonight, friend
+
+Lawsuit 
+sue, sued, file, lawsuit, lawyer, dollars, illegal, court, jury.

@@ -1,0 +1,7 @@
+{
+  "travel": ["travel", "tour", "airplane", "vacation"],
+  "family": ["family", "mother", "mom", "father", "dad", "son", "daughter", "child", "children", "uncle", "aunt", "grandma", "grandmother", "grandfa", "grandfather", "cousin", "relative"],
+  "work": ["work", "office", "meeting", "teach", "job", "unemployment", "economy", "market"],
+  "social": ["party", "friend", "friends", "neighbor", "movie", "club", "restaurant", "shopping", "gatherings",
+    "public", "movies", "school", "gym", "outside", "eat", "buy", "store", "going", "visit", "church", "go", "house", "visit"]
+}

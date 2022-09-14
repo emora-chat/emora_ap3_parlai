@@ -1,0 +1,76 @@
+CUSTOMER SERVICE
+store
+bank
+hotel
+front desk
+walmart
+target
+costco
+
+MEDICAL
+hospital
+doctors office
+dentists office
+nursing home
+
+FOOD
+restaurant
+cafeteria
+cafe
+concession stand
+coffee shop
+pizza place
+kitchen
+mcdonalds
+wendys
+burger king
+taco bell
+subway
+dominos
+
+MANUAL LABOR
+factory
+warehouse
+
+EDUCATION
+school
+university
+daycare
+preschool
+college
+
+COMPUTER
+data center
+
+ART
+theater
+record label
+
+NEWS
+newspaper
+
+RESEARCH
+lab
+laboratory
+
+COMMUNITY
+non profit
+apartment
+flower shop
+
+RELIGIOUS
+church
+altar
+
+CELEBRITY
+youtube
+
+MISC
+company
+
+ANIMAL
+kennel
+
+UNLIKELY
+start up
+

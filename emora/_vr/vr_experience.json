@@ -1,0 +1,51 @@
+{"ontology":
+  {
+    "vr_company":
+     [
+         "google",
+         "htc",
+         "samsung",
+         "oculus",
+         "other_vr"
+     ],
+     "google":
+     [
+         "cardboard",
+         "google"
+     ],
+     "htc":
+     [
+         "vive",
+         "htc",
+         "cosmos"
+     ],
+     "samsung":
+     [
+         "gear",
+         "samsung"
+     ],
+     "oculus":
+     [
+         "rift",
+         "oculus",
+         "quest",
+         "rift"
+     ],
+     "sony":
+     [
+         "morpheus",
+         "vr",
+         "sony",
+         "playstation",
+         "ps four",
+         "p s four"
+     ],
+    "other_vr":
+    [
+        "valve",
+        "windows",
+        "pimax",
+        "huawei"
+    ]
+  }
+}

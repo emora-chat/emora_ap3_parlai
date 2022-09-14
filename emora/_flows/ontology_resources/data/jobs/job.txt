@@ -1,0 +1,376 @@
+1
+Retail salespersons
+# Employed: 4,155,190
+2
+Cashiers
+# Employed: 3,354,170
+3
+Office clerks
+# Employed: 2,789,590
+
+4
+Combined food preparation and serving workers
+# Employed: 2,692,170
+5
+Registered nurses
+6
+Waiters and waitresses
+# Employed: 2,244,480
+7
+Customer service representatives
+# Employed: 2,146,120
+8
+Janitors and cleaners
+# Employed: 2,058,610
+9
+Freight, stock, and hand material mover laborers
+# Employed: 2,024,180
+10
+Secretaries and administrative assistants
+# Employed: 1,841,020
+11
+Stock clerks and order fillers
+# Employed: 1,795,970
+12
+General and operation managers
+# Employed: 1,708,080
+13
+Bookkeeping, accounting, and auditing clerks
+# Employed: 1,675,250
+14
+Elementary school teachers
+# Employed: 1,485,600
+15
+Heavy and tractor-trailer truck drivers
+# Employed: 1,466,740
+16
+Nursing aides, orderlies, and attendants
+# Employed: 1,451,090
+17
+Wholesale and manufacturing sales representatives
+# Employed: 1,367,210
+18
+First-line supervisors of office and administrative support workers
+# Employed: 1,359,950
+19
+Teacher assistants
+# Employed: 1,249,380
+20
+Bus and truck mechanics and diesel engine specialists
+# Employed: 1,222,770
+21
+Maintenance and repair workers
+# Employed: 1,217,820
+22
+First-line supervisors of retail sales workers
+# Employed: 1,172,070
+23
+Executive secretaries and executive administrative assistants
+# Employed: 1,132,070
+24
+Accountants and auditors
+# Employed: 1,072,490
+25
+Secondary school teachers
+# Employed: 1,053,140
+26
+Security guards
+# Employed: 1,006,880
+27
+Receptionists and information clerks
+# Employed: 997,080
+28
+
+Business operations specialists
+# Employed: 993,980
+29
+
+Home health aides
+# Employed: 982,840
+30
+
+Team assemblers
+# Employed: 928,170
+31
+
+Restaurant Cooks
+# Employed: 901,310
+32
+
+Maids and housekeeping cleaners
+# Employed: 865,960
+33
+
+Landscaping and groundskeeping workers
+# Employed: 829,350
+
+34
+
+Food preparation workers
+# Employed: 802,650
+35
+
+Light truck or delivery service drivers
+# Employed: 780,260
+36
+
+Construction laborers
+# Employed: 777,700
+37
+
+First-line supervisors of food preparation and serving workers
+# Employed: 773,400
+38
+
+Licensed practical and licensed vocational nurses
+# Employed: 730,290
+39
+
+Shipping, receiving, and traffic clerks
+# Employed: 687,850
+40
+
+Personal care aides
+# Employed: 686,030
+41
+
+Packers and packagers
+# Employed: 676,870
+42
+
+Middle school teachers
+# Employed: 655,090
+43
+
+Police and sheriff's patrol officers
+# Employed: 644,300
+
+44
+
+Carpenters
+# Employed: 620,410
+45
+
+Childcare workers
+# Employed: 611,280
+46
+
+Automotive service technicians and mechanics
+# Employed: 587,510
+47
+
+Computer support specialists
+# Employed: 579,270
+48
+
+Lawyers
+# Employed: 561,350
+49
+
+Tellers
+# Employed: 556,310
+50
+
+First-line supervisors of production and operating workers
+# Employed: 555,260
+51
+
+Management analysts
+# Employed: 536,310
+52
+
+Service Sales representatives
+# Employed: 531,410
+53
+
+Fast food Cooks
+# Employed: 525,350
+54
+
+Medical assistants
+# Employed: 523,260
+55
+
+Industrial truck and tractor operators
+# Employed: 518,350
+56
+
+Electricians
+# Employed: 514,760
+57
+
+Dishwashers
+# Employed: 505,950
+58
+
+Application Software developers
+# Employed: 499,280
+59
+
+Computer system analysts
+# Employed: 495,800
+60
+
+Bartenders
+# Employed: 495,350
+61
+
+Medical secretaries
+# Employed: 494,650
+62
+
+Billing and posting clerks
+# Employed: 483,440
+63
+
+Financial managers
+# Employed: 478,940
+
+64
+
+First-line supervisors of construction trades and extraction workers
+# Employed: 474,510
+65
+
+School or special client Bus drivers
+# Employed: 467,610
+66
+
+Correctional officers and jailers
+# Employed: 457,550
+67
+
+Cafeteria, food concession and coffee shop counter attendants
+# Employed: 446,660
+68
+
+Human resources, training, and labor relations specialists
+# Employed: 417,880
+69
+
+First-line supervisors of mechanics, installers, and repairers
+# Employed: 415,900
+70
+
+Counter and rental clerks
+# Employed: 414,730
+71
+
+Inspectors, testers, sorters, samplers, and weighers
+# Employed: 410,750
+72
+
+Bill and account collectors
+# Employed: 399,950
+73
+
+Helpers--production workers
+# Employed: 394,270
+
+74
+
+Dining room, cafeteria attendants and bartender helpers
+# Employed: 390,920
+75
+
+Institution and cafeteria cooks
+# Employed: 387,700
+76
+
+Technical and scientific products sales representatives
+# Employed: 381,080
+77
+
+Systems Software developers
+# Employed: 378,920
+78
+
+Driver/sales workers
+# Employed: 371,670
+79
+
+Preschool teachers
+# Employed: 369,380
+80
+
+Plumbers, pipefitters, and steamfitters
+# Employed: 358,790
+81
+
+Social and human service assistants
+# Employed: 357,500
+82
+
+Machinists
+# Employed: 352,650
+83
+
+Hairdressers, hairstylists, and cosmetologists
+# Employed: 349,420
+
+84
+
+Packaging and filling machine operators and tenders
+# Employed: 342,280
+85
+
+Operating engineers and other construction equipment operators
+# Employed: 334,730
+86
+
+Computer programmers
+# Employed: 333,620
+87
+
+Pharmacy technicians
+# Employed: 333,500
+88
+
+Network and computer systems administrators
+# Employed: 333,210
+89
+
+Restaurant, lounge, and coffee shop hosts and hostesses,
+# Employed: 329,020
+90
+
+Postal service mail carriers
+# Employed: 324,990
+91
+
+Sales managers
+# Employed: 319,300
+92
+
+Insurance sales agents
+# Employed: 318,800
+93
+
+Welders, cutters, solderers, and brazers
+# Employed: 314,260
+94
+
+Firefighters
+# Employed: 302,400
+95
+
+Dental assistants
+# Employed: 294,030
+96
+
+Physicians
+# Employed: 293,740
+97
+
+Recreation workers
+# Employed: 293,430
+98
+
+Telemarketers
+99
+
+Computer and information system managers
+# Employed: 288,660
+100
+
+Cleaners of vehicles and equipment

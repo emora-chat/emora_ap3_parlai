@@ -1,0 +1,29 @@
+Birthday 9.78
+Job 8.39
+Wedding / Engagement 7.24
+Award 6.20
+Sports 6.08
+Anniversary 5.44
+Give Birth 4.28
+Graduate 3.86
+Death 3.80
+Admission 3.54
+Interview / Internship 3.44
+Moving 3.26
+Travel 3.24
+Illness 2.45
+Vacation 2.24
+Relationship 2.16
+Exams 2.02
+Election 1.85
+New Car 1.65
+Running 1.42
+Surgery 1.20
+Lawsuit 0.64
+Acting 0.50
+Research 0.48
+Essay 0.35
+Lost Weight 0.35
+Publishing 0.28
+Song 0.22
+OTHER 15.31

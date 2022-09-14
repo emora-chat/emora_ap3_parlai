@@ -1,0 +1,231 @@
+CUSTOMER SERVICE
+salesman
+saleswoman
+cashier
+attendant
+bankteller
+telemarketer
+banker
+cashier
+realtor
+librarian
+
+MEDICAL
+doctor
+surgeon
+nurse
+nursing aid
+home health aid
+personal care aid
+medical assistant
+pharmacy technician
+pharmacist
+dental assistant
+hygienist
+dentist
+physician
+physical therapist
+occupational therapist
+speech therapist
+caregiver
+care giver
+audiologist
+pathologist
+
+FOOD
+waiter
+waitress
+cook
+bartender
+barista
+chef
+farmer
+dietary aid
+host
+hostess
+
+CLEANING
+janitor
+cleaner
+maid
+housekeeper
+cleaner
+landscaper
+
+MANUAL LABOR
+truck driver
+delivery driver
+packager
+dishwasher
+bus driver
+bricklayer
+
+ASSISTANT
+secretary
+assistant
+receptionist
+
+BUSINESS
+manager
+supervisor
+accountant
+auditor
+analyst
+financial manager
+project manager
+executive
+president
+ceo
+cfo
+cto
+recruiter
+agent
+
+EDUCATION
+teacher
+professor
+instructor
+nanny
+
+LAW
+security guard
+security officer
+police officer
+sheriff
+lawyer
+correctional officer
+jailer
+cop
+investigator
+
+SKILLED
+carpenter
+mechanic
+construction worker
+electrician
+inspector
+plumber
+pipefitter
+pipewelder
+steamfitter
+machinist
+welder
+cutter
+solderer
+brazer
+engineer
+remodeler
+builder
+
+COMPUTER
+software developer
+programmer
+system administrator
+
+ART
+graphic designer
+artist
+painter
+sculptor
+actor
+actress
+writer
+author
+playwright
+musician
+photographer
+videographer
+tattoo artist
+fashion designer
+music director
+singer
+
+NEWS
+journalist
+newscaster
+reporter
+
+COMMUNITY
+social worker
+psychologist
+counselor
+therapist
+landlord
+leasing agent
+florist
+
+RELIGIOUS
+pastor
+priest
+
+INTERPERSONAL
+hairdresser
+hair dresser
+hairstylist
+hair stylist
+cosmetologist
+personal trainer
+life coach
+babysitter
+blogger
+vlogger
+
+SPORTS
+player
+coach
+life guard
+lifeguard
+dancer
+gymnast
+
+GOVERNMENT
+mailman
+mailwoman
+firefighter
+senator
+judge
+
+CELEBRITY
+celebrity
+youtuber
+star
+model
+influencer
+
+MISC
+installer
+repairer
+tester
+sorter
+sampler
+weigher
+collector
+professional
+consultant
+specialist
+technologist
+coordinator
+critic
+
+ANIMAL
+breeder
+vet
+veterinarian
+dogsitter
+groomer
+
+UNLIKELY
+assassin
+astronaut
+
+RESEARCH
+researcher
+scientist
+astronomist
+biologist
+chemist
+physician
+neuroscientist
+graduate student
+phd
+masters
